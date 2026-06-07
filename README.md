@@ -16,7 +16,7 @@
 -  Web Scraping for Real-Time Research
 - Personal Portfolio Website
   ## 📚 Currently Learning
-  - Data Structures and Algorithms
+- Data Structures and Algorithms
 - Full Stack Web Development
 - SQL and Database Management
 ## 📫 Connect with Me
